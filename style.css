@@ -1,0 +1,19 @@
+body {
+    background-color: palevioletred;
+    color: darkslategray;
+}
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_objects {
+    color:mediumseagreen;
+}
+#camera {
+    border: 2px dashed darkblue;
+    width: 350px;
+    height: 300px;
+}
+#result_object_name, #result_object_accuracy {
+color: mediumorchid;
+}
